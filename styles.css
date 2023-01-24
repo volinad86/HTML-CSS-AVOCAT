@@ -19,3 +19,34 @@ body:hover{
     color:#d6e6f2;
     font-family: 'Roboto', sans-serif;
 }
+.start{
+    margin-right: auto;   
+}
+.about{
+    display: flex;
+}
+.hardi{
+    flex:1;
+}
+.devis{
+    display: flex;
+    align-items: center;
+}
+.text{
+    text-transform: uppercase;
+    padding: 10px;
+    font-family: 'Roboto', sans-serif;
+}
+.softskil{
+    display: flex;
+    justify-content: center;
+    text-transform: uppercase;
+    font-family: 'Roboto', sans-serif;
+    color: #112d4e;
+    font-size: 30px;
+    font-family: 'Roboto', sans-serif;
+    padding: 20px;
+}
+.softskil:hover{
+    color: #07689f;
+}
