@@ -68,3 +68,27 @@ body:hover{
     background-color: #384259;
     color: #d6e6f2;
 }
+.label{
+    display: flex;
+flex-direction: column;
+font-family: 'Roboto', sans-serif;
+}
+
+
+.btn{
+    display: flex;
+    justify-content: center;
+}
+
+button{
+    background-color: #3f72af;
+    color: #d6e6f2;
+    padding: 20px;
+    font-size: 15px;
+    text-transform: uppercase;
+    flex: 1;
+    cursor: help;
+}
+button:hover{
+    background-color: #384259;
+}
