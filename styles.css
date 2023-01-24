@@ -1,0 +1,21 @@
+body{
+    background-color: #d6e6f2;
+}
+body:hover{
+    background-color: #f5eee6;
+}
+
+.menu{
+    display: flex;
+    justify-content: flex-end;
+    background-color:#2d4059; ;
+    padding: 10px;
+}
+
+.item{
+    padding: 10px;
+    text-decoration: none;
+    text-transform: uppercase;
+    color:#d6e6f2;
+    font-family: 'Roboto', sans-serif;
+}
