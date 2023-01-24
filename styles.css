@@ -50,3 +50,21 @@ body:hover{
 .softskil:hover{
     color: #07689f;
 }
+
+
+.list{
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.roll{
+    list-style: none;
+    font-size: 25px;
+    font-family: 'Roboto', sans-serif;
+    padding: 30px;
+    
+}
+.roll:hover{
+    background-color: #384259;
+    color: #d6e6f2;
+}
